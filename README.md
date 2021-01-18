@@ -41,13 +41,13 @@ Voici les critère que j'ai choisi pour les différencier :
 
 
 | Logiciels          | Synchronisation | Clients                             | Opensource    | Audité           | 2FA   | Secret sharing   |
-| ------------------ |:---------------:|:-----------------------------------:|:-------------:|:----------------:|:-----:|--------- :|
-| Keepass            | No              | Mac,Windows,Linux,IOS,Android,Web   | Yes           | ?                | ?     | No        |
-| LastPass           | Yes             | IOS,Android,Web                     | No            | ?                | Yes   | Yes       |
-| 1Password          | Yes             | Mac,Windows,Linux,IOS,Android,Web   | No            | ?                | Yes   | Yes      
-| DashLane           | Yes             | Mac,Windows,Linux,IOS,Android,Web   | No            | ?                | Yes   | Yes           
-| Buttercup          | No              | Mac,Windows,Linux,IOS,Android,Web   | Yes           | ?                | No    | No            
-| Bitwarden          | Yes             | Mac,Windows,Linux,IOS,Android,Web   | Yes           | Audit&BugBounty  | Yes   | Yes       
+| ------------------ |:---------------:|:-----------------------------------:|:-------------:|:----------------:|:-----:|:----------------:|
+| Keepass            | No              | Mac,Windows,Linux,IOS,Android,Web   | Yes           | ?                | ?     | No               |
+| LastPass           | Yes             | IOS,Android,Web                     | No            | ?                | Yes   | Yes              |
+| 1Password          | Yes             | Mac,Windows,Linux,IOS,Android,Web   | No            | ?                | Yes   | Yes              |
+| DashLane           | Yes             | Mac,Windows,Linux,IOS,Android,Web   | No            | ?                | Yes   | Yes              |
+| Buttercup          | No              | Mac,Windows,Linux,IOS,Android,Web   | Yes           | ?                | No    | No               |
+| Bitwarden          | Yes             | Mac,Windows,Linux,IOS,Android,Web   | Yes           | Audit&BugBounty  | Yes   | Yes              |
 
 TODO: https://github.com/drduh/YubiKey-Guide
 
