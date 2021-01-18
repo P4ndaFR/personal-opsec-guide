@@ -10,7 +10,7 @@ Ce guide à pour but de vous permettre d'apprendre les bases de la sécurité op
 + Les gestionnaires de mot de passe
 + L'authentification à 2 facteurs
 + Les clés cryptographiques
-+ Les utilisation des clés cryptographiques
++ Les utilisations des clés cryptographiques
 + Les smartcard
 
 
